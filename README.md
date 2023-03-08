@@ -5,6 +5,9 @@
 ### 💪 Skills </br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+### 📗 BLog
+https://beeamjunn.tistory.com/
+
 <!--
 **BeamjunCho9/BeamjunCho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
