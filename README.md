@@ -1,4 +1,4 @@
-<div align="center"> 
+<div> 
   
 ## 👋 Beamjun Cho
 😄 개발을 즐기면서 하려고 노력합니다.<br>
@@ -8,14 +8,16 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeamjunCho9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeamjunCho9&count_bg=%237BD0FF&title_bg=%23B9BFC2&icon=github.svg&icon_color=%23EFEFEF&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 ## 📗 BLOG
 [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=beeamjunn)](https://beeamjunn.tistory.com/)
   
 ## 💪 Skills </br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<br>
+<br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeamjunCho9&count_bg=%23000000&title_bg=%23A1A8AC&icon=github.svg&icon_color=%23000000&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
