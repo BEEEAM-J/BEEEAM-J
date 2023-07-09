@@ -7,7 +7,7 @@
 🤔 더 좋은 코드를 작성하기 위해서 고민합니다.<br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeamjunCho9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEEEAM-J&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeamjunCho9&count_bg=%237BD0FF&title_bg=%23B9BFC2&icon=github.svg&icon_color=%23EFEFEF&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 ## 📗 BLOG
