@@ -4,19 +4,9 @@
 <br>
 
 
-<table>
-  <tr>
-    <td>
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEEEAM-J&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-<br></td>
-    <td>
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=beeamjunn)](https://beeamjunn.tistory.com/)
-  </td>
-  </tr>
-  
-</table>
+
 
 ### 💪 **Skills** <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
